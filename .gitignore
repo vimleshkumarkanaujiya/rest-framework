@@ -8,6 +8,7 @@ virtualenv/
 
 # Secrets
 .env
+.config
 
 # IDE/Editor Configuration
 .vscode/
