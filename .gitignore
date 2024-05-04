@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+virtualenv/
+
+# Database
+*.sqlite3
+
+# Secrets
+.env
+
+# IDE/Editor Configuration
+.vscode/
+.idea/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.bak
+
+# Compiled Python files
+__pycache__/
+*.pyc
