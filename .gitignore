@@ -3,12 +3,15 @@ venv/
 env/
 virtualenv/
 
+# Config
+config/
+
 # Database
 *.sqlite3
 
 # Secrets
 .env
-.config
+
 
 # IDE/Editor Configuration
 .vscode/
